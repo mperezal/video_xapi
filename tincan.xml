@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><tincan xmlns="http://projecttincan.com/tincan.xsd">
+    <activities>
+        <activity id="https://tudominio.com/xapi/video/cliente" type="http://activitystrea.ms/schema/1.0/video">
+            <name>Video Cliente</name>
+            <description lang="en-US">Un video de La vida es Bella</description>
+            <launch lang="en-us">index.html</launch>
+        </activity>
+    </activities>
+</tincan>
